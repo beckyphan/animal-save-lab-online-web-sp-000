@@ -14,17 +14,17 @@ html {
 
 #dolphin {
   position: absolute;
-  top: 200px;
+  top: 400px;
   right: 0;
-  transform: rotate(0.5turn);
 }
 
 /* Write your solution here */
 @media only screen and (max-width: 1090px) {
     #dolphin {
       position: absolute;
-      top: 400px;
+      top: 200px;
       right: 0;
+      transform: rotate(0.5turn);
     }
 
 }
@@ -32,7 +32,8 @@ html {
 @media only screen and (min-width: 642px) {
     #dolphin {
       position: absolute;
-      top: 400px;
+      top: 200px;
       right: 0;
+      transform: rotate(0.5turn);
     }
 }
