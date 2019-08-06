@@ -22,6 +22,6 @@ html {
   #monkey {
   position: absolute;
   top: 25px;
-  right: 0px;
+  left: 5px;
   }
 }
