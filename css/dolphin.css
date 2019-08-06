@@ -25,6 +25,7 @@ html {
       position: absolute;
       top: 400px;
       right: 0;
+      transform: rotate(0.25turn);
     }
 }
 
@@ -33,5 +34,6 @@ html {
       position: absolute;
       top: 400px;
       right: 0;
+      transform: rotate(0.75turn);
     }
 }
