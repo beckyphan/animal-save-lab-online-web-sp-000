@@ -12,15 +12,15 @@ html {
 @media only screen and (max-width: 1300px) {
   #ostrich {
   position: absolute;
-  top: -50px;
+  top: 0px;
   right: 0;
 }
 }
 
-@media only screen and (max-width: 1300px) {
+@media only screen and (max-width: 1010px) {
   #ostrich {
   position: absolute;
-  top: 50px;
+  top: 25px;
   right: 0;
 }
 }
