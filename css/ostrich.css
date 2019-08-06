@@ -20,7 +20,7 @@ html {
 @media only screen and (max-width: 1010px) {
   html {
   background: url(../images/croc.jpg) no-repeat top left;
-  background-size: ;
+  background-size: 100px;
 }
 
   #ostrich {
